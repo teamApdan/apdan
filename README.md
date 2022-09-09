@@ -10,7 +10,7 @@
 
 | go  | jiwonlee | kilee | minjupar | mosong | nkim | suhshin                         |
 | --- | -------- | ----- | -------- | ------ | ---- | ------------------------------- |
-|     |          |       |          | ![mosong](https://avatars2.githubusercontent.com/u/22931103?s=460&v=4) |      | ![suhshin](./asset/suhshin.png) |
+|     |          |       |          | ![mosong](https://avatars2.githubusercontent.com/u/22931103?s=460&v=4) | ![nkim](https://avatars.githubusercontent.com/u/51353146?v=4) | ![suhshin](./asset/suhshin.png) |
 
 </br>
 
